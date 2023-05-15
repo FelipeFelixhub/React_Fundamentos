@@ -1,3 +1,8 @@
+# React_Fundamentos
+
+Fundamentos de React aprendidos durante o curso do instrutor Matheus Battisti do canal Hora de Codar no Youtube
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React_Fundamentos
+
+
+
